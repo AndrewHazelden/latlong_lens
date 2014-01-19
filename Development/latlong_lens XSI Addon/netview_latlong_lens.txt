@@ -1,0 +1,1 @@
+This is a Softimage version of the mental ray latlong_lens shader which is used to create equirectangular panoramic renderings.
